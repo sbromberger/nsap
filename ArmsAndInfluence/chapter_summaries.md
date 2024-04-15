@@ -445,3 +445,26 @@ the adversary to predict your reaction). As usual, words explaining the reaction
 less effective than the communication of intent by the reaction itself.
 
 #### Tactical Responses and Diplomatic Responses
+
+If an adversary escalates / crosses a threshold, there are two components to a response: the change
+in the tactical situation ("pressure to avert defeat or to recapture advantage", p151; "tactical
+effect", p152) and the desire to make a concrete response / effect a reprisal in order to teach a
+lesson to observe the _status quo ante_ / discourage future expansion ("diplomatic effect", p152).
+
+Because there are these two different components, there are two ways to enlarge the conflict
+
+- minimize "the appearance of initiative, challenge, rupture, or abandon" (p152);
+- exploit the same
+
+It may be possible to reverse the adversary's tactical gain without effecting a reprisal; for
+instance, via covert response or misdirection. This may be useful if the intent is to relax a
+constraint without intimidation.
+
+#### Manipulation of Conventional Thresholds
+
+Declarations of limitations / constraints in advance of conflict can serve to notify the other side
+that these constraints are available thresholds. They may not be limiting for any other reason than
+the adversary has chosen to adhere to them. A "no-cities" declaration serves to tell the adversary
+that this is an option they could choose, and that we would adhere to it as long as they did.
+
+First use of nuclear weapons is another limitation.
