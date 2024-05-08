@@ -468,3 +468,63 @@ the adversary has chosen to adhere to them. A "no-cities" declaration serves to 
 that this is an option they could choose, and that we would adhere to it as long as they did.
 
 First use of nuclear weapons is another limitation.
+
+#### Characteristics of Thresholds
+
+What happens when thresholds are crossed? The other side may "match" the action (if possible), or
+expand aggression to include attacks against the thing being introduced.
+
+Some thresholds arise out of history: that is, if a city in a war zone has been spared attack by the
+enemy even when he is able to do so with relative impunity, the sanctuary status of that city might
+be upheld as "tradition" so that when/if the enemy does decide to attack it, it represents a
+crossing of a threshold (Korea, Pusan).
+
+Similarly for the use of nukes - because the US decided not to use them in Korea, the idea that
+nukes were the "weapon of last resort" was strengthened and any subsequent use of them in any other
+conflict would represent crossing a major threshold. If we wanted flexibility to use nukes
+where/when desired, and to make them common weapons of war, it would have been in our interest to
+use them in Korea even if we didn't necessarily need their tactical advantages, just to set the
+precedent and expectation that the weapons were like any other.
+
+#### An "Ultimate Limit"?
+
+Is there a threshold beyond which there is no turning back? Is the use of nuclear weapons such a
+threshold? Perhaps not. Perhaps it is a strike on a city. But how many cities must be destroyed
+before a side decides it is an all-out war? What constitutes an attack on a city, anyway, with its
+ill-defined boundaries?
+
+Where there is ambiguity, there is a tendency to have an all-or-nothing threshold: a single city is
+more likely a threshold than, say, 10 cities, or a single use of gas weapons is a threshold, rather
+than the use of gas weapons on a particular population.
+
+Direct confrontation of Soviet and US troops has been held by some as a threshold that separates
+limited from general war. (This is relevant to the SIOP discussion in the other book). But this
+seems extreme. Perhaps national boundaries? But the USSR has more national boundary length than the
+US, and it abuts several countries that are subjects of limited war, so the chance of inadvertent
+(or even deliberate) strikes inside USSR is greater than in the US. (Soviet aircraft operating from
+bases within the USSR attacking US-backed troops in Iran, for example - is it ok for the US to
+strike back only at that airfield, or would the Soviets see this as an all-out attack on their
+territory and respond by escalating to general war?)
+
+We would not do it if we intended it to lead to general war, and the USSR should know this, so
+perhaps cooler heads would prevail. But it would certainly lead to reprisals which themselves might
+escalate and cross a threshold.
+
+_McNamara_'s no-cities policy left open the question as to whether the destruction of a single city
+is the threshold. If we assume that's what he meant, is there any possibility to deescalation in the
+event of an attack on a city?
+
+The challenge is the tempo of nuclear war - if it can be slowed down, then deescalation might be
+possible, but if it requires immediate reprisals, then it is unlikely that cooling off can happen.
+
+Also, the most observable limitations are boolean: either a city is attacked, or it is not; either
+one side uses nukes, or it does not; the number doesn't matter. In wartime, with the requirement for
+quick decision-making, boolean limitations are easier. No-nukes is easier than no-cities, because
+what of military bases in close proximity to cities? Does splash damage count?
+
+"... while anyone can argue that the first city... raises greatly the likelihood that the rest will
+turn to cinders..., this by no means implies that the consequence is so ineluctable that one should
+take it for granted, nor so nearly inevitable that one should make it genuinely inevitable by
+treating it as though it were" (pp 165-166).
+
+#### Wars of the Battlefield, Wars of Risk, and Wars of Pain and Destruction
